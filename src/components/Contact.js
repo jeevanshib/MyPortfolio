@@ -22,7 +22,7 @@ export const Contact = () => {
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <h2>Get In Touch</h2>
-                <form action="https://formsubmit.co/a69aa38b580ed61fd0662d6ff7fe18ac" method="POST">
+                <form action="https://formsubmit.co/jeevanshi.jb@gmail.com" method="POST">
                   <Row>
                     <Col size={12} sm={6} className="px-1">
                       <input name = "firstname" type="text" placeholder="First Name" />
